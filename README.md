@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 I'm a software developer with 9+ years of experience. I’m a quick learner and for the most part self-taught, always studying new technologies. I have great experience with web applications, focused now in React, JavaScript and C#.
 
