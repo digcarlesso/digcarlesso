@@ -4,8 +4,7 @@ I'm a software developer with 11+ years of experience. I’m a quick learner and
 
 - 👤 https://digcarlesso.github.io/
 - 💼 I’m currently working as a full stack developer
-- 💻 React, JavaScript, TypeScript, CSS, .Net, C#
-- 💙 Front-end
+- 💻 .Net, C#, React, JavaScript, TypeScript, CSS
 - 🌱 Always learning
 - 🎮 Gamer
 
