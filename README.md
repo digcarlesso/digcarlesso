@@ -1,9 +1,9 @@
 Hi there 👋
 
-I'm a software developer with 11+ years of experience. I’m a quick learner and for the most part self-taught, always studying new technologies. I have great experience with web applications, focused now in React, JavaScript/TypeScript and .Net.
+I'm a software developer with 12+ years of experience. I’m a quick learner and for the most part self-taught, always studying new technologies. Now I'm focused on .Net back-end applications, microservices and events.
 
 - 👤 https://digcarlesso.github.io/
-- 💼 I’m currently working as a full stack developer
+- 💼 I’m currently working as a Tech Lead, focused on back-end applications using .Net and some front-end React components.
 - 💻 .Net, C#, React, JavaScript, TypeScript, CSS
 - 🌱 Always learning
 - 🎮 Gamer
